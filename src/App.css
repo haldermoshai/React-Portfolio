@@ -1,0 +1,13 @@
+.App {
+  background-image: url('/public/back-landscape.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* Media query for tablet screens and smaller */
+@media (max-width: 1024px) {
+  .App {
+    background-image: url('/public/back-portrait.jpg'); /* Change the path to your new image */
+  }
+}
