@@ -102,14 +102,14 @@ const Contact = () => {
                   <HomeOutlined sx={{ fontSize: "30px", mr: '3px' }} /><p>Address</p>
                 </Typography>
                 <Typography variant="body1" component="p" color="textSecondary">
-                  123/1, Park Street, Kolkata - 700016,<br /> West Bengal, India
+                  Amtala Housing Complex, N. D. Road,<br /> West Bengal - 743503, India
                 </Typography><br />
 
                 <Typography variant="h6" component="h4" gutterBottom sx={{ fontSize: "20px", display: 'flex', alignItems: 'center', color: '#C85B01' }}>
                   <PhoneOutlined sx={{ fontSize: "25px", mr: '6px' }} /><p>Phone</p>
                 </Typography>
                 <Typography variant="body1" component="p" color="textSecondary">
-                  +919804334350
+                  +919804334350 / +919804830939
                 </Typography><br />
 
                 <Typography variant="h6" component="h4" gutterBottom sx={{ fontSize: "20px", display: 'flex', alignItems: 'center', color: '#C85B01' }}>
